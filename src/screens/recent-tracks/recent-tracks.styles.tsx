@@ -5,6 +5,7 @@ export const recentTracksStyles = StyleSheet.create({
         background: "#121212",
         display: "flex",
         color: "#FFF",
+        minHeight: "100vh"
     },
     flexContainer: {
         display: "flex",

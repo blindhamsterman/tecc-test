@@ -8,6 +8,8 @@ to run, first run `npm i` to install required node modules then run `npm start`.
 
 You'll also need to create a .env file based on the .env_template
 
+You'll also need to either setup a spotify app in the dashboard per the implicit grant instructions or email me to get me to add your spotify as an allowed user.
+
 ### Requirements
 - Node >= 14.0.0
 - npm >= 5.6 (built using 6.14.13)
